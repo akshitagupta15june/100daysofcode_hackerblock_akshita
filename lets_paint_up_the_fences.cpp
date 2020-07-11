@@ -47,7 +47,7 @@ int solve(int l,int r)
  }
 int main()
  {
-  int n;
+  long long int n;
   scanf("%lld",&n);
   memset(dp,100000,sizeof dp);
   for(int i=0;i<n;i++)
