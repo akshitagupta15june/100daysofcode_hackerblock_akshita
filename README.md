@@ -15,3 +15,5 @@ Performance
 9635 Points
 2009 Points from last month
 
+100 days of programming learning path.
+
