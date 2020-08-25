@@ -7,15 +7,17 @@ It contains all compiled code of hackerblock. People can take a reference from i
 
 
 
+
 All Time Best
-#254
-Achieved on 21 Aug 2020
+#253
+Achieved on 25 Aug 2020
 Current Ranking
-254
-151 Ranks from last month
+253
+152 Ranks from last month
 Performance
-11953 Points
-309 Points from last month
+12053 Points
+409 Points from last month
+
 
 
 
