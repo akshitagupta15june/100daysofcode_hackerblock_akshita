@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int n,num,count=0;
+	cin>>n;
+	num=n;
+	 do
+    {
+        count++;
+        num /= 10;
+    } while(num != 0);
+
+    for(int i=1;i<=count;i++)
+	{
+	  cout<<n%10;
+	  n=n/10;
+	}
+	return 0;
+}
